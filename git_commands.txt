@@ -8,3 +8,12 @@ git add testing.py
 git commit -m "added testing files" 
 git restore testing.py     
 git status    
+
+"Github se connect krne k liye"
+git remote add origin https://github.com/pathanmanazilkhan-cpu/GIT-...("App mese copy krne ka pele ye)
+git remote -v 
+git remote set-url origin ("wala url yahape past krne ka ese" (git remote set-url origin https://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@github.com/pathanmanazilkhan-cpu/GIT-GITHUB.git))
+git push origin master  
+
+Fork:(Github me Fork se kisi or ke codes copy kr sakte hai)
+Clone:(hamare local(Terminal) pe jake koi bhi folder open kr ke usme:mkdir banake, github pe jake Code pe click kr ke https ko copy kr ke, locak pr jake "git clone"ke sath me wo past krdo, deone..)
