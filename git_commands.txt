@@ -9,7 +9,7 @@ git commit -m "added testing files"
 git restore testing.py     
 git status    
 
-"Github se connect krne k liye" (App m jake new repo banake)
+-----("Github se connect krne k liye" (App m jake new repo banake))-----
 git remote add origin https://github.com/pathanmanazilkhan-cpu/GIT-...("App mese copy krne ka pele ye)
 git remote -v 
 git remote set-url origin ("wala url yahape past krne ka ese" (git remote set-url origin https://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@github.com/pathanmanazilkhan-cpu/GIT-GITHUB.git))
@@ -22,4 +22,15 @@ Clone:(hamare local(Terminal) pe jake koi bhi folder open kr ke usme:mkdir banak
 Terminal Update code k liye tarminal m (1st git add (file name)2nd (git commit "update files") 3rd (git push origin master))
 
 github me update code k liye github m edit kr ke (Terminal m aake (1st git add (file name))2nd (git commit "update files")3rd (git pull origin master ))
+
+------------("Branches")--------------
+
+git branch  
+git log --oneline (jo kiya he wo batata hai)
+git branch dev  (TO create Branches)
+git branch (To check Branches)
+git switch dev (TO switch Branches)
+git checkout dev (same as git switch)
+
+file ko Marge krne k liye (github me "pull request") se krne ka 
 
