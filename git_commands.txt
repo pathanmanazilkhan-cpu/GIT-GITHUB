@@ -17,3 +17,9 @@ git push origin master
 
 Fork:(Github me Fork se kisi or ke codes copy kr sakte hai)
 Clone:(hamare local(Terminal) pe jake koi bhi folder open kr ke usme:mkdir banake, github pe jake Code pe click kr ke https ko copy kr ke, locak pr jake "git clone"ke sath me wo past krdo, deone..)
+
+Update code k liye tarminal m (1st git add (file name)2nd (git commit "update files") 3rd (git push origin master))
+
+
+
+
